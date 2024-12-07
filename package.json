@@ -26,9 +26,9 @@
     "date_format": "^0.1.1",
     "dateformat": "^3.0.2",
     "dotenv": "^2.0.0",
-    "express": "^4.15.3",
+    "express": "^4.21.2",
     "express-session": "^1.15.6",
-    "mongoose": "^5.0.0-rc1",
+    "mongoose": "^8.8.3",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
     "strong-supervisor": "^6.2.0"
